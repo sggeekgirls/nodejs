@@ -13,5 +13,5 @@ What do I need to know to take this workshop?
 ---------------------------------------------
 * Knowing some JavaScript will be definitively helpful. 
 * You’ll need [Node.js]( http://nodejs.org/) on your computer. Then use npm (it comes with Node) to install modules.
-* You will also need a Text Editor, if you don't have one already, you may want one for editing code. A few options: [Sublime Text](http://www.sublimetext.com/2), [Textmate](http://macromates.com/download), [Brackets](http://brackets.io/), [Atom](http://www.atom.io/. 
+* You will also need a Text Editor, if you don't have one already, you may want one for editing code. A few options: [Sublime Text](http://www.sublimetext.com/2), [Textmate](http://macromates.com/download), [Brackets](http://brackets.io/), [Atom](http://www.atom.io/.)
 * And a [Github](https://github.com/join) account. There will be a small intro to git, so no [git](http://git-scm.com/) experience necessary.
